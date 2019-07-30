@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/StockAccountingVasu/StockAccounting/CommonJarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
