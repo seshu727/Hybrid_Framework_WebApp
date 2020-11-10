@@ -26,10 +26,12 @@ import Utilities.PropertyFileUtil;
 
 public class FunctionLibrary 
 {
+	
 	WebDriver driver;
 //startBrowser
 public static WebDriver startBrowser(WebDriver driver) throws Throwable, Throwable
 {
+	System.out.println("i am sravani");
 if(PropertyFileUtil.getValueForKey("Browser").equalsIgnoreCase("Firefox"))
 {
 driver= new FirefoxDriver();
